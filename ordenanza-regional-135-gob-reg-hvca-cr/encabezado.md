@@ -1,0 +1,18 @@
+ORDENANZA REGIONAL
+Nº 135-GOB.REG-HVCA/CR
+Huancavelica, 19 de mayo de 2009
+POR CUANTO:
+EL CONSEJO REGIONAL DE HUANCAVELICA:
+Ha dado la Ordenanza Regional siguiente:
+ORDENANZA REGIONAL QUE APRUEBA LA MODIFICACIÓN DE LA ESTRUCTURA ORGÁNICA, REGLAMENTO DE ORGANIZACIÓN Y FUNCIONES
+(ROF) Y CUADRO PARA ASIGNACIÓN DE PERSONAL (CAP) DEL GOBIERNO REGIONAL DE
+HUANCAVELICA
+Que, los Gobiernos Regionales emanan de la voluntad popular, son personas jurídicas de Derecho Público con autonomía política, económica y administrativa teniendo por misión organizar y conducir la gestión pública regional de acuerdo a sus competencias exclusivas, comparativas y delegadas en el marco de las políticas nacionales y sectoriales para la contribución al desarrollo integral y sostenible de la región, sus normas y disposiciones se rigen por los principios de exclusividad, territorialidad, legalidad y simplificación administrativa.
+Que, los literales a) y b) del artículo 15º de la Ley 27867, Ley Orgánica de los Gobiernos Regionales establecen que es atribución del Consejo Regional aprobar, modificar o derogar las normas que regulen o reglamente los asuntos materias de competencia del Gobierno Regional
+Que mediante Ordenanza Regional Nº 102-GOB.REG. HVCA/CR, de fecha 17 de Octubre del año 2007, se aprobó declarar de interés regional la adopción de acciones necesarias orientadas a la modernización de la gestión pública del Pliego Gobierno Regional de Huancavelica, que comprenda la ejecución de los siguientes procesos: reestructuración orgánica, reorganización administrativa y de recursos humanos, reestructuración del sistema de planificación y modernización informática.
+Que mediante Ordenanza Regional Nº 104-GOB.REG. HVCA/CR, de fecha 29 de diciembre del año 2007, se aprobó la nueva Estructura Orgánica del Gobierno Regional de Huancavelica y su Reglamento de Organización y Funciones y con Ordenanza Regional Nº 122-GOB.REG. HVCA/CR, de fecha 13 de Noviembre del año 2008 se aprobó la modificación de la ESTRUCTURA ORGANICA Y EL REGLAMENTO DE ORGANIZACIÓN Y FUNCIONES DEL GOBIERNO REGIONAL DE HUANCAVELICA.
+Que, mediante Ordenanza Regional Nº 130-GOB. REG.HVCA/CR, de fecha 08 de Enero del año 2009, se aprueba el Cuadro Para Asignación de Personal (CAP) del Gobierno Regional de Huancavelica, ello de acuerdo a la Ley Marco de Modernización de la Gestión del Estado, que declara al Estado peruano en proceso de modernización en sus diferentes instancias, dependencias, entidades, organizaciones y procedimientos, con la finalidad de mejorar la gestión pública y construir un Estado democrático, descentralizado y al servicio del ciudadano;
+Que, dentro del citado contexto normativo y estando al Oficio Nº 001-2009-CIRO/P, de fecha 16 de abril del año 2009, que contiene el Informe Nº 001-2009-CIRO/P, emanada de la Comisión de Implementación de la Reestructuración Orgánica del Gobierno Regional de Huancavelica, precisando modificaciones a la Estructura Orgánica del Gobierno Regional de Huancavelica y al Reglamento de Organización y Funciones (ROF), así como Informe Nº 074-2009-GOB.REG.HVCA/ORAJ, DE LA Oficina Regional de Asesoría la misma que luego de su deliberación y debate, el pleno del Consejo Regional por unanimidad aprueba las modificaciones propuestas.
+Que, el Artículo 38º de la Ley 27867 - Ley Orgánica de los Gobiernos Regionales establece que las Ordenanzas Regionales norman asuntos de carácter general, la organización y administración del Gobierno Regional y reglamentan materias de su competencia;
+Por lo que, en uso de las atribuciones conferidas en la Constitución Política del Estado, Ley Orgánica de Gobiernos Regionales, sus modificatorias y al Reglamento Interno del Consejo Regional; con el voto unánime de sus miembros,
+ORDENA:
