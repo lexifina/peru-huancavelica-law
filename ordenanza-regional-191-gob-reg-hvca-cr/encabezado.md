@@ -1,0 +1,10 @@
+(Se publica la presente Ordenanza a solicitud del Gobierno Regional de Huancavelica, mediante Oficio Nº 504-2012-GOB. REG.HVCA/RP, recibido el 13 de setiembre de 2012)
+ORDENANZA REGIONAL
+Nº 191-GOB.REG-HVCA/CR
+Huancavelica, 8 de febrero de 2012
+POR CUANTO:
+EL CONSEJO REGIONAL DE HUANCAVELICA:
+Ha dado la Ordenanza Regional siguiente:
+ORDENANZA REGIONAL QUE APRUEBA EL REGLAMENTO DE ORGANIZACIÓN Y FUNCIONES
+(ROF) y ESTRUCTURA ORGÁNICA DE LA DIRECCIÓN REGIONAL DE TRABAJO Y PROMOCIÓN
+DEL EMPLEO DE HUANCAVELICA
