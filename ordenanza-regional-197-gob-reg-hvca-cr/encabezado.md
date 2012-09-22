@@ -1,0 +1,15 @@
+ORDENANZA REGIONAL
+Nº 197-GOB.REG-HVCA/CR
+Huancavelica, 8 de Marzo de 2012.
+POR CUANTO:
+EL CONSEJO REGIONAL DE HUANCAVELICA:
+Ha dado la Ordenanza Regional siguiente:
+ORDENANZA REGIONAL QUE APRUEBA LA CREACIÓN DE LA OFICINA REGIONAL DE LA JUVENTUD, CULTURA Y DEPORTE, DENTRO DE LA ESTRUCTURA ORGÁNICA DEL GOBIERNO
+REGIONAL HUANCAVELICA.
+Que, los Gobiernos Regionales emanan de la voluntad popular, son personas jurídicas de Derecho Público con autonomía política, económica y administrativa teniendo por misión organizar y conducir la gestión pública regional de acuerdo a sus competencias exclusivas, comparativas y delegadas en el marco de las políticas nacionales y sectoriales para la contribución al desarrollo integral y sostenible de la región, sus normas y disposiciones se rigen por los principios de exclusividad, territorialidad, legalidad y simplificación administrativa.
+Que, la Ley Nº 27802 - Ley del Consejo Nacional de la Juventud, en el Artículo V del Título Preliminar, del Principio de Participación manifiesta que “El Estado promueve la participación de los jóvenes en la vida política, económica cultural y social de la Nación. Promueve la participación organizada de la juventud como órgano de consulta y coordinación en materia de juventud, a nivel del gobierno local, regional y nacional”. El Decreto Supremo Nº 061-2005-PCM, indica que “los Lineamiento de políticas son las líneas que marcan la dirección de la intervención del Estado peruano para favorecer el desarrollo de los jóvenes y utilizar sus capacidades, en relación a las potencialidades del contexto y del entorno local y nacional, para la construcción de un país justo, equitativo, descentralizado y con plena participación de todos sus ciudadanos”.
+Que, el Artículo 2º Inciso 8) de la Constitución Política del Perú señala, los derechos fundamentales de la persona, que toda persona tiene derecho a “A la libertad de creación intelectual, artística, técnica y científica, así como la propiedad de dichas creaciones y a su producto. El Estado propicia el acceso a la Cultura y fomenta su desarrollo y difusión”;
+Que, la Ley Nº 28036 Ley de Promoción y Desarrollo del Deporte, en su Artículo Nº 1) sustenta como principio fundamental del deporte “1.La promoción y desarrollo de la educación física, la recreación y el deporte como actividad de interés nacional, 2. Propiciar el acceso de la persona humana a la actividad deportiva, recreativa y la educación física” y en su Artículo Nº 6) en el Sistema Deportivo Nacional reconoce como organismo público estructurado e integrado funcionalmente, que articulan y desarrollan la actividad deportiva a los Gobiernos Regionales a través de los Consejos Regionales del Deporte.
+Que, el Artículo 38º de la Ley Nº 27867 - Ley Orgánica de Gobiernos Regionales, establece que las Ordenanzas Regionales norman asuntos de carácter general, la organización y administración del Gobierno Regional y reglamentan materias de su competencia;
+En uso de las atribuciones conferidas en la Constitución Política del Estado, Ley Orgánica de Gobiernos Regionales N° 27867, sus modificatorias y al Reglamento Interno del Consejo Regional.
+ORDENA:
