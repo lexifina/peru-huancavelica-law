@@ -1,0 +1,16 @@
+Se publica la presente Ordenanza a solicitud del Gobierno Regional de Huancavelica, mediante Oficio Nº 233-2017/GOB.REG.HVCA/GR, recibido el 17 de abril de 2017
+ORDENANZA REGIONAL
+Nº 329-GOB.REG-HVCA/CR
+Huancavelica, 4 de febrero de 2016
+POR CUANTO:
+EL CONSEJO REGIONAL DE HUANCAVELICA:
+Ha dado la Ordenanza Regional siguiente:
+ORDENANZA QUE CREA EL CONSEJO
+REGIONAL DE DIÁLOGO Y DE CONCERTACIÓN PARA LA PROMOCIÓN DE CULTURA DE PAZ Y MANEJO CONSTRUCTIVO DE CONFLICTOS
+SOCIALES REGIONALES
+Que, los Gobiernos Regionales emanan de la voluntad popular, son personas jurídicas de Derecho Público con autonomía política ,económica y administrativa teniendo por misión organizar y conducir la gestión pública regional de acuerdo a sus competencias exclusivas, comparativas y delegadas en el marco de las políticas nacionales y sectoriales para la contribución al desarrollo integral y sostenible de la región, sus normas y disposiciones se rigen por los principios de exclusividad, territorialidad, legalidad y simplificación administrativa.
+Que, en parte del proceso de desarrollo de la sociedad civil, se producen conflictos de carácter social, político, económico, ambiental, cultural, entre otros, frente a ello el estado en sus diferentes niveles - Gobierno Nacional, Regional y Local requiere de su intervención, estableciendo normas especificas, ya sea creando y afirmando instituciones, con las que se permitiría prevenir y canalizar estos conflictos sociales. En este contexto, conforme al Inciso f) del artículo 60º de la Ley Nº 27867, forma parte de la función de los Gobiernos Regionales, en materia de desarrollo social e igualdad de oportunidades, la de promover una cultura de paz e igualdad de oportunidades, cuya regulación corresponde a efectuarlo a través de Ordenanza Regional, conforme a los dispuesto por el artículo 39º de la Ley orgánica de Gobiernos Regionales, en concordancia con el Inciso m) numeral 1 del artículo 10º de la acotada ley;
+Que, en tal sentido atendiendo a permanecer conflictos sociales que se producen dentro del ámbito regional, resulta necesaria su declaración de interés y necesidad pública regional, que permite adoptar planes, programas y políticas que permita efectivizar la promoción de la cultura de paz y manejo de Constructivo de Conflictos Sociales Regionales, para cuyo efecto además, resulta imprescindible la creación del Consejo Regional de Diálogo y Concertación para la Promoción de la Cultura de Paz y Manejo Constructivo de Conflictos Sociales Regionales, como órgano consultivo adscrito al Gobierno Regional de Huancavelica, con específicas funciones, que permitan atender las demandas de la población y comunidades priorizando las de extrema pobreza para la concertación ciudadana que permitan fomentar el diálogo, así como desactivar y prevenir conflictos sociales.
+Que, el artículo 38º de la Ley 27867- Ley Orgánica de los Gobiernos Regionales establece que las ordenanzas regionales norman asuntos de carácter general, la organización y administración del Gobierno Regional y reglamentan materias de su competencia;
+Por lo que, en uso de las atribuciones conferidas en la Constitución Política del Estado, Ley Orgánica de Gobiernos Regionales, sus modificatorias y al Reglamento Interno del Consejo Regional; con el voto unánime de sus miembros;
+ORDENA:
