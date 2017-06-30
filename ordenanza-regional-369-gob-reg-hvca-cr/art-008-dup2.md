@@ -1,0 +1,1 @@
+Artículo Octavo.- APROBAR el Cuadro para Asignación de Personal Provisional (CAP-P) de la Unidad de Gestión Educativa Local de Tayacaja, conforme al anexo 9 que forma parte integrante de la presente Ordenanza Regional.
