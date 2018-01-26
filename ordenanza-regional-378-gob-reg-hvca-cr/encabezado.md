@@ -1,0 +1,17 @@
+ORDENANZA REGIONAL
+Nº 378-GOB.REG-HVCA/CR
+Huancavelica, 3 de agosto de 2017
+POR CUANTO:
+EL CONSEJO REGIONAL DE HUANCAVELICA:
+Ha dado la Ordenanza Regional siguiente:
+ORDENANZA REGIONAL QUE, APRUEBA LA CONFORMACIÓN DE LA MESA REGIONAL DE LAS PERSONAS ADULTAS MAYORES DE LA REGIÓN
+HUANCAVELICA
+Que, los Gobiernos Regionales emanan de la voluntad popular, son personas jurídicas de Derecho Público con autonomía política, económica y administrativa teniendo por misión organizar y conducir la gestión pública regional de acuerdo a sus competencias exclusivas, comparativas y delegadas en el marco de las políticas nacionales y sectoriales para la contribución al desarrollo integral y sostenible de la región, sus normas y disposiciones se rigen por los principios de exclusividad, territorialidad, legalidad y simplificación administrativa.
+Que, mediante Decreto Supremo N° 011-2011-MIMDES, se aprueba la Política Nacional en relación a las Personas Adultas Mayores, que tiene dentro de sus objetivos prioritarios, mejorar la calidad de vida de la población adulta mayor y la creación de un entorno social favorable para las personas adultas mayores, que potencien su desarrollo y favorezcan el ejercicio de sus derechos.
+Que, mediante la Ley N° 30490 - Ley de la Persona Adulta Mayor se establece un marco normativo para garantizar el ejercicio de los derechos de la persona adulta mayor, a fin de mejorar su calidad de vida y propiciar su plena integración al desarrollo social, económico, político y cultural de la Nación.
+Que, a través del Decreto Supremo N° 002-2013-MIMP se aprueba el “Plan Nacional para las Personas Adultas Mayores 2013-2017”, con el objeto de implementar acciones coordinadas entre las organizaciones gubernamentales y la sociedad civil a fin de aumentar la participación e integración social del adulto mayor, a través del incremento en la cobertura y calidad de los servicios de salud, la garantía de una asistencia alimentaria y nutricional y la generación de oportunidades para una vida armónica con su familia y su comunidad.
+Que, mediante Resolución Ministerial N° 906-2006-MIMDES, se modifica el artículo 4° de la Resolución Ministerial N° 513-2014-MIMDES, mediante la cual se creó la Red Nacional de Personas Adultas Mayores, norma que en su artículo 10° establece la composición de las Redes Regionales.
+Que, por Resolución Ministerial N° 095-2017-MIMP resuelve la Constitución, Estructura y Conformación de la Red Nacional de Personas Adultas Mayores, Conformación de las Mesas Regionales, Provinciales y Distritales, cuyo Objetivo es contribuir acciones para la implementación y ejecución de las medidas contenidas en el Plan Nacional para las Personas Adultas Mayores 2013-2017, articulando acciones interinstitucionales e intergubernamentales para ejecutar planes y programas en beneficio de la población adulta mayor a través del desarrollo de los distintos componentes, estrategias y mecanismos a las personas adultas mayores.
+Que, el Artículo 38° de la Ley 27867 - Ley Orgánica de los Gobiernos Regionales establece que las Ordenanzas Regionales norman asuntos de carácter general, la organización y administración del Gobierno Regional y reglamentan materias de su competencia;
+Por lo que, en uso de las atribuciones conferidas en la Constitución Política del Estado, Ley Orgánica de Gobiernos Regionales, sus modificatorias y al Reglamento Interno del Consejo Regional; con el voto mayoritario de sus miembros;
+ORDENA:
