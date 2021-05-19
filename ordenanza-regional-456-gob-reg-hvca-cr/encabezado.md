@@ -1,0 +1,14 @@
+ORDENANZA REGIONAL
+Nº 456-GOB.REG-HVCA/CR
+Huancavelica, 16 de abril del 2021
+POR CUANTO:
+El Consejo Regional del Gobierno Regional de Huancavelica en Sesión Ordinaria Virtual realizada el 16 de abril de 2021.
+Ha dado la siguiente Ordenanza Regional siguiente:
+ORDENANZA REGIONAL QUE DEROGA LA ORDENANZA Nº 432-GOB.REG.-HVCA/CR.
+CONSIDERANDO:
+Que, el artículo 191º de la Constitución Política del Estado, indica que los Gobiernos Regionales gozan de autonomía política, económica y administrativa en los asuntos de su competencia y el Consejo Regional tiene las atribuciones de normar la organización del Gobierno Regional a través de las Ordenanzas Regionales, en concordancia con el inciso a) del Artículo 15º de la Ley Nº 27867, Ley Orgánica de los Gobiernos Regionales.
+Que, el artículo 2º de la Ley Nº 27867, Ley Orgánica de Gobiernos Regionales, dispone que los gobiernos Regionales emanan de la voluntad popular, son personas jurídicas de derecho público, con autonomía política, económica y administrativa en asuntos de su competencia, teniendo por misión organizar y conducir la gestión pública regional de acuerdo a sus competencias exclusivas, comparativas y delegadas en el marco de las políticas nacionales y sectoriales para la contribución al desarrollo integral y sostenible de la Regio, sus normas y disposiciones se rigen por los principios de exclusividad, territorialidad, legalidad y simplificación administrativa.
+Que, con Oficio Nº de fecha 05 de abril 2021, el alcalde de la Municipalidad de Marcas, provincia de Acobamba, departamento de Huancavelica solicita al gobernador regional de Huancavelica dejar sin efecto la Ordenanza Regional Nº 432- GOB.REG.-HVCA/CR de fecha 19 de diciembre de 2019, precisando que visto los dispositivos normativos, es función exclusiva del Ministerio de Cultura a través del Vice Ministerio de Patrimonio Cultural e Industrias Culturales.
+Que, el Oficio Nº 000006-2021-DPI/MC de fecha 19 de marzo de 2021 de la Dirección de Patrimonio Inmaterial del Ministerio de Cultura remitido a l señor a la Municipalidad Distrital de Marcas, provincia de Acobamba enfatiza que, conforme a lo establecido en el artículo 7, Capítulo III, Titulo II de la Ley Nº 29565 -Ley de Creación del Ministerio de Cultura, es función exclusiva del Ministerio de Cultura el realizar acciones de declaración del Patrimonio Cultural de la Nación. Dicha función exclusiva es cumplida a través del Viceministerio de Patrimonio Cultural e Industrias Culturales, siguiendo el artículo 9 del Reglamento de Organización y Funciones del Ministerio de Cultura aprobado mediante Decreto Supremo Nº 005-2013-MC.
+Por lo que, en uso de las atribuciones conferidas en la Constitución Política del Estado, Ley Orgánica de Gobiernos Regionales, sus modificatorias y del reglamento interno del Consejo Regional; con el voto unánime de sus miembros.
+ORDENA:
