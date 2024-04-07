@@ -1,0 +1,21 @@
+CONSEJO REGIONAL
+ORDENANZA REGIONAL
+Nº 522-GOB.REG-HVCA/CR
+Huancavelica, 1 de febrero de 2024
+POR CUANTO:
+EL CONSEJO REGIONAL DE HUANCAVELICA:
+Ha dado la Ordenanza Regional siguiente:
+ORDENANZA REGIONAL QUE APRUEBA EL REGLAMENTO MARCO PARA EL DESARROLLO
+DE AUDIENCIAS PÚBLICAS DE RENDICIÓN
+DE CUENTAS DE LOS CONSEJEROS
+REGIONALES DE HUANCAVELICA
+Que, el artículo 191° de la Constitución Política del Estado, indica que los Gobiernos Regionales gozan de autonomía política, económica y administrativa en los asuntos de su competencia, y el Consejo Regional tiene las atribuciones de normar la organización del Gobierno Regional a través de las Ordenanzas Regionales, en concordancia con el inciso a) del Artículo 15º de la Ley N° 27867, Ley Orgánica de los Gobiernos Regionales.
+Que, el Artículo 16° inciso f) de la Ley 31433 – Ley que modifica la Ley N° 27867 – Ley Orgánica de Gobiernos Regionales, establece que: Son derechos y obligaciones funcionales de los Consejeros Regionales “Rendir cuentas de su labor. Para tal efecto, llevan a cabo, al menos, una audiencia pública anual de rendición de cuentas en la provincia que representan.
+Que, el Artículo 8° de la Ley N° 27658 – Ley Marco de Modernización de la Gestión del Estado, prescribe que: “El Estado debe promover y establecer los mecanismos para lograr una adecuada democracia participativa de los ciudadanos, a través de mecanismos directos e indirectos de participación”; En esa misma línea, el artículo 9° de la antedicha Ley, prescribe que: “El ciudadano tiene el derecho a participar en los procesos de formulación presupuestal, fiscalización, ejecución y control de la gestión del Estado, mediante los mecanismos que la normatividad establezca”;
+Que, mediante Informe Nº 104-2023/GOB.REG. HVCA/GRPPyAT-SGPEyAT-eajv, fecha 22 de diciembre de 2023, la Gerencia Regional de Planeamiento y Presupuesto del Gobierno Regional de Huancavelica, hace llegar al Presidente del Consejo Regional de Huancavelica, el sustento técnico para para la aprobación del Reglamento marco para el desarrollo de Audiencias Públicas de Rendición de Cuentas de los Consejeros Regionales de Huancavelica, mediante el cual se concluye que el aludid reglamento debe ser incorporada en el Reglamento Interno del Consejo Regional.
+Que, aunado a ello, mediante Opinión Legal N° 001-2024/GOB.REG.HVCA/ORAJ-jdpa, de fecha 11 de enero de 2024, el Jefe de la Oficina Regional de Asesoría Jurídica, emite opinión favorable para la aprobación del Reglamento para el desarrollo de Audiencias Públicas de Rendición de Cuentas de los Consejeros Regionales de Huancavelica y recomienda elevar el presente expediente al Consejo Regional para los fines pertinentes.
+Que, el literal a) del artículo 15º de la Ley Nº 27867 – Ley Orgánica de Gobiernos Regionales, establece que son atribuciones del Consejo Regional aprobar, modificar o derogar las normas que regulen o reglamenten los asuntos y materias de competencia y funciones del Gobierno Regional; concordante con el literal A) del artículo 8 del Reglamento Interno del Consejo Regional de Huancavelica.
+Que, el artículo X del Título Preliminar del Reglamento Interno del Consejo Regional de Huancavelica, establece que La función normativa del Consejo Regional se plasma en las Ordenanzas Regionales y Acuerdos Regionales, las mismas que previo análisis y debate se aprueba por mayoría simple, debiendo anteladamente haberse presentado las inquietudes legislativas en forma individual y/o grupal, ya sea de la aprobación, modificación, interpretación y/o derogación de las normas precitadas, todas dentro del marco y procedimientos establecidos por la Ley Nº 27867 –Ley Orgánica de Gobiernos Regionales y modificatorias, así como del presente Reglamento Interno.
+Que, el artículo 38° de la Ley N° 27867 – Ley Orgánica de Gobierno Regionales, establece que las Ordenanzas Regionales norman asuntos de carácter general, la organización y administración del Gobierno Regional y reglamentan materias de su correspondencia;
+Por lo que, en uso de las atribuciones conferidas en la Constitución Política del Estado, la Ley Orgánica de Gobiernos Regionales y sus modificatorias, el Reglamento Interno del Consejo Regional; y, con el voto en mayoría de sus miembros;
+ORDENA:
