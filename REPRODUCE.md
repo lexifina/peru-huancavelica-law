@@ -125,20 +125,59 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `ordenanza-regional-244-gob-reg-hvca-cr` | Ordenanza Regional N° 244-GOB.REG-HVCA/CR.: Aprueban Texto Único de Procedimientos Administrativos del Gobierno Regional de Huancavelica | 1 | 2013-11-16 to 2013-11-16 |
 | `ordenanza-regional-191-gob-reg-hvca-cr` | Ordenanza Regional N° 191-GOB.REG-HVCA/CR: Aprueban Reglamento de Organización y Funciones (ROF) y Estructura Orgánica de la Dirección Regional de Trabajo y Promoción del Empleo de Huancavelica | 1 | 2012-09-15 to 2012-09-15 |
 | `ordenanza-regional-201-gob-reg-hvca-cr` | Ordenanza Regional N° 201-GOB.REG-HVCA/CR: Disponen inicio y aprueban Reglamento del Proceso del Presupuesto Participativo Basado en Resultados para el Año Fiscal 2013 | 1 | 2012-08-07 to 2012-08-07 |
+| `ordenanza-regional-453-gob-reg-hvca-cr` | Ordenanza Regional N° 453-GOB.REG-HVCA/CR: Apruaban la modificación de la conformación de la Comisión Técnica Regional de Zonificación Ecológica y Económica de la Región Huancavelica | 1 | 2021-06-24 to 2021-06-24 |
+| `ordenanza-regional-448-2020-gob-reg-hvca-cr` | Ordenanza Regional N° 448-2020/GOB.REG.HVCA/CR: Ordenanza Regional que aprueba la actualización y modificación del Texto Unico de Procedimientos Administrativos - TUPA de la Sub Gerencia de Gestion Ambiental | 1 | 2021-01-09 to 2021-01-09 |
+| `ordenanza-regional-400-gob-reg-hvca-cr` | Ordenanza Regional N° 400-GOB.REG-HVCA/CR: Aprueban creación del Comité Ejecutivo Regional Exportador - CERX en la Región Huancavelica | 1 | 2019-07-05 to 2019-07-05 |
+| `ordenanza-regional-405-gob-reg-hvca-cr` | Ordenanza Regional N° 405-GOB.REG-HVCA/CR: Aprueban Plan Regional de Exportaciones de Huancavelica (PERX 2018 - 2021) y la Agenda de Exportaciones | 1 | 2018-11-23 to 2018-11-23 |
+| `ordenanza-regional-409-gob-reg-hvca-cr` | Ordenanza Regional N° 409-GOB.REG-HVCA/CR: Aprueban Cuadros para Asignación de Personal Provisionales de la Dirección Regional de Salud de Huancavelica, hospitales, redes de salud y gerencias subregionales | 1 | 2018-11-21 to 2018-11-21 |
+| `ordenanza-regional-401-gob-reg-hvca-cr` | Ordenanza Regional N° 401-GOB.REG-HVCA/CR: Ordenanza Regional que aprueba el inicio, equipo técnico y cronograma de actividades del Presupuesto Participativo Regional Basado en Resultados para el año 2019 | 1 | 2018-09-10 to 2018-09-10 |
+| `ordenanza-regional-390-gob-reg-hvca-cr` | Ordenanza Regional N° 390-GOB.REG-HVCA/CR: Aprueban el Reglamento de Supervisión, Fiscalización  y Sanción   en materia Ambiental, aplicable a todas las unidades orgánicas del Gobierno Regional de Huancavelica | 1 | 2018-04-28 to 2018-04-28 |
+| `ordenanza-regional-361-gob-reg-hvca-cr` | Ordenanza Regional N° 361-GOB.REG-HVCA/CR: Aprueban constitución de la "Mancomunidad Regional Huancavelica - Ica" - "MANRHI" | 1 | 2017-02-05 to 2017-02-05 |
+| `ordenanza-regional-332-gob-reg-hvca-cr` | Ordenanza Regional N° 332-GOB.REG-HVCA/CR: Declaran de interés y prioridad regional la ejecución de la Política Pública Yaku Tarpuy de Lucha Contra la Pobreza, como estrategia para la preservación, incremento y gestión del recurso hídrico | 1 | 2016-05-11 to 2016-05-11 |
+| `ordenanza-regional-292-gob-reg-hvca-cr` | Ordenanza Regional N° 292-GOB.REG-HVCA/CR: Ordenanza Regional que oficializa el Sistema de Información Ambiental Regional - SIAR Huancavelica | 1 | 2015-06-22 to 2015-06-22 |
+| `ordenanza-regional-198-gob-reg-hvca-cr` | Ordenanza Regional N° 198-GOB.REG-HVCA/CR: Declaran la voluntad del Gobierno Regional Huancavelica de constituir la "Mancomunidad Regional Apurímac, Ayacucho, Huancavelica" | 1 | 2013-07-21 to 2013-07-21 |
+| `ordenanza-regional-227-gob-reg-hvca-cr` | Ordenanza Regional N° 227-GOB.REG-HVCA/CR: Aprueban "Plan Regional por la Primera Infancia de Huancavelica 2012 - 2017". | 1 | 2013-04-27 to 2013-04-27 |
+| `ordenanza-regional-199-gob-reg-hvca-cr` | Ordenanza Regional N° 199-GOB.REG-HVCA/CR: Aprueban Plan Regional Contra la Violencia Hacia la Mujer 2012 - 2016 | 1 | 2012-10-06 to 2012-10-06 |
+| `ordenanza-regional-190-gob-reg-hvca-cr` | Ordenanza Regional N° 190-GOB.REG-HVCA/CR: Crean y disponen la implementación de la Orquesta Sinfónica y Coro Polifónico Infantil - Juvenil de la Región Huancavelica | 1 | 2012-10-05 to 2012-10-05 |
+| `ordenanza-regional-220-gob-reg-hvca-cr` | Ordenanza Regional N° 220-GOB.REG-HVCA/CR: Modifican la Ordenanza Regional N° 144-GOB.REG.HVCA/CR y crean el Consejo Regional de la Juventud de Huancavelica - COREJUH | 1 | 2012-09-22 to 2012-09-22 |
+| `ordenanza-regional-197-gob-reg-hvca-cr` | Ordenanza Regional N° 197-GOB.REG-HVCA/CR: Aprueban creación de la Oficina Regional de la Juventud, Cultura y Deporte | 1 | 2012-09-22 to 2012-09-22 |
+| `ordenanza-regional-200-gob-reg-hvca-cr` | Ordenanza Regional N° 200-GOB.REG-HVCA/CR: Aprueban el Plan Regional de Igualdad de Genero 2012-2017 (PRIG)
 
-The build made 107 commits:
+
+. | 1 | 2012-09-22 to 2012-09-22 |
+| `ordenanza-regional-218-gob-reg-hvca-cr` | Ordenanza Regional N° 218-GOB.REG-HVCA/CR: Aprueban el Plan Regional de Cooperación Internacional No Reembolsable 2012 - 2015 | 1 | 2012-08-09 to 2012-08-09 |
+| `ordenanza-regional-205-gob-reg-hvca-cr` | Ordenanza Regional N° 205-GOB.REG-HVCA/CR: Aprueban creación de la Dirección Regional de Camélidos Sudamericanos | 1 | 2012-08-04 to 2012-08-04 |
+| `ordenanza-regional-192-gob-reg-hvca-cr` | Ordenanza Regional N° 192-GOB.REG.HVCA/CR: Declaran al Saneamiento Ambiental Básico como eje estratégico de desarrollo para la región Huancavelica | 1 | 2012-06-07 to 2012-06-07 |
+| `ordenanza-regional-193-gob-reg-hvca-cr` | Ordenanza Regional N° 193-GOB.REG-HVCA/CR: Ordenanza que autoriza el servicio de transporte terrestre interprovincial de pasajeros en automóviles colectivos en el ámbito territorial del Gobierno Regional de Huancavelica | 1 | 2012-04-27 to 2012-04-27 |
+| `ordenanza-regional-179-gob-reg-hvca-cr` | Ordenanza Regional N° 179-GOB.REG.HVCA/CR: Disponen gestionar la certificación ambiental y el cumplimiento de la Ley de Evaluación de Impacto Ambiental de los proyectos de inversión en el ámbito del Gobierno Regional de Huancavelica | 1 | 2011-09-11 to 2011-09-11 |
+| `ordenanza-regional-167-gob-reg-hvca-cr` | Ordenanza Regional N° 167-GOB.REG-HVCA/CR: Crean el Consejo Regional del Trabajo y Promoción del Empleo de Huancavelica | 1 | 2011-06-03 to 2011-06-03 |
+| `ordenanza-regional-156-gob-reg-hvca-cr` | Ordenanza Regional N° 156-GOB.REG-HVCA/CR: Aprueban Política Regional en materia de Trabajo Infantil en el ámbito de la Región Huancavelica | 1 | 2010-10-23 to 2010-10-23 |
+| `ordenanza-regional-157-gob-reg-hvca-cr` | Ordenanza Regional N° 157-GOB.REG-HVCA/CR: Crean el Consejo Regional de Ciencia, Tecnología e Innovación Tecnológica de Huancavelica (CORCYTEC-HVCA) | 1 | 2010-10-23 to 2010-10-23 |
+| `ordenanza-regional-146-gob-reg-hvca-cr` | Ordenanza Regional N° 146-GOB.REG-HVCA/CR: Crean el Grupo Técnico Regional del Agua - GTRA | 1 | 2010-05-28 to 2010-05-28 |
+| `ordenanza-regional-153-gob-reg-hvca-cr` | Ordenanza Regional N° 153-GOB.REG-HVCA/CR: Aprueban modificación de Cuadros para Asignación de Personal del Gobierno Regional y de Gerencias Subregionales de Acobamba, Angaraes, Castrovirreyna, Churcampa, Huaytará y Tayacaja | 1 | 2010-05-28 to 2010-05-28 |
+| `ordenanza-regional-152-gob-reg-hvca-cr` | Ordenanza Regional N° 152-GOB.REG-HVCA/CR: Aprueban Texto Único de Procedimientos Administrativos del Gobierno Regional de Huancavelica | 1 | 2010-04-19 to 2010-04-19 |
+| `ordenanza-regional-149-gob-reg-hvca-cr` | Ordenanza Regional N° 149-GOB.REG-HVCA/CR: Aprueban la creación de la Comisión Ambiental Regional de la Región Huancavelica | 1 | 2010-04-03 to 2010-04-03 |
+| `ordenanza-regional-148-gob-reg-hvca-cr` | Ordenanza Regional N° 148-GOB.REG.HVCA/CR: Aprueban modificación del Reglamento de Organización y Funciones, Estructura Orgánica y Cuadro para Asignación de Personal del Gobierno Regional de Huancavelica y modificación del CAP de las Gerencias Subregionales de Huaytará y Tayacaja | 1 | 2010-03-15 to 2010-03-15 |
+| `ordenanza-regional-145-gob-reg-hvca-cr` | Ordenanza Regional N° 145-GOB.REG-HVCA/CR: Prohiben la discriminación en todos los ámbitos y formas en la Región Huancavelica | 1 | 2009-12-14 to 2009-12-14 |
+| `ordenanza-regional-144-gob-reg-hvca-cr` | Ordenanza Regional N° 144-GOB.REG-HVCA/CR: Aprueban la creación del Consejo Regional de la Juventud de Huancavelica - COREJUH | 1 | 2009-12-14 to 2009-12-14 |
+| `ordenanza-regional-143-gob-reg-hvca-cr` | Ordenanza Regional N° 143-GOB.REG-HVCA/CR: Aprueban creación del Consejo Regional de Fomento Artesanal de Huancavelica - COREFARH | 1 | 2009-12-07 to 2009-12-07 |
+| `ordenanza-regional-142-gob-reg-hvca-cr` | Ordenanza Regional N° 142-GOB.REG-HVCA/CR: Aprueban creación del Consejo Regional de la Palta | 1 | 2009-10-24 to 2009-10-24 |
+| `ordenanza-regional-141-gob-reg-hvca-cr` | Ordenanza Regional N° 141-GOB.REG-HVCA/CR: Aprueban creación del Consejo Regional de la Papa Nativa | 1 | 2009-10-24 to 2009-10-24 |
+| `ordenanza-regional-140-gob-reg-hvca-cr` | Ordenanza Regional N° 140-GOB.REG-HVCA/CR: Aprueban creación del Consejo Regional de la Tara | 1 | 2009-10-24 to 2009-10-24 |
+
+The build made 143 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 107 | first version of an act |
+| 143 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `futuro`: laws not yet in force on 2026-10-31.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 107 laws in the record.
-- 214 tags.
+- 143 laws in the record.
+- 286 tags.
 
 ## Dates
 
@@ -150,13 +189,13 @@ When a law gives no date of its own, the default rule applies: Constitución Pol
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `72ee1d7af27b5999b2230f9d0ddf7da190f2658521fc9e71d9169fa63de534b5` (1172439 bytes).
+- Corpus: sha256 `acd7d32fd6a06bae22f2a87569c74c00ec52f3834f8bd0ac038943e43f718880` (1524184 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
 ## Checks
 
-107 versions of 107 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+Not yet run for this build.
 
 No second build of this corpus has been compared yet.
 

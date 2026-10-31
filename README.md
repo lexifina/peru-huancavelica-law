@@ -8,7 +8,7 @@ The text is in Spanish, exactly as El Peruano prints it.
 
 ## What this repository holds
 
-107 ordinances so far, newest first, added in parts of about 50. Each is shown **as published in El Peruano** (the oldest version available from this source): El Peruano publishes no consolidated texts, so an ordinance that amends another is its own entry and its changes are not applied to the earlier text.
+143 ordinances so far, newest first, added in parts of about 50. Each is shown **as published in El Peruano** (the oldest version available from this source): El Peruano publishes no consolidated texts, so an ordinance that amends another is its own entry and its changes are not applied to the earlier text.
 
 | Folder | Ordinance | Date |
 | --- | --- | --- |
@@ -122,6 +122,44 @@ The text is in Spanish, exactly as El Peruano prints it.
 | `ordenanza-regional-244-gob-reg-hvca-cr/` | Ordenanza Regional N° 244-GOB.REG-HVCA/CR.: Aprueban Texto Único de Procedimientos Administrativos del Gobierno Regional de Huancavelica | in force 16 November 2013 |
 | `ordenanza-regional-191-gob-reg-hvca-cr/` | Ordenanza Regional N° 191-GOB.REG-HVCA/CR: Aprueban Reglamento de Organización y Funciones (ROF) y Estructura Orgánica de la Dirección Regional de Trabajo y Pro… | in force 15 September 2012 |
 | `ordenanza-regional-201-gob-reg-hvca-cr/` | Ordenanza Regional N° 201-GOB.REG-HVCA/CR: Disponen inicio y aprueban Reglamento del Proceso del Presupuesto Participativo Basado en Resultados para el Año Fisc… | in force 7 August 2012 |
+| `ordenanza-regional-453-gob-reg-hvca-cr/` | Ordenanza Regional N° 453-GOB.REG-HVCA/CR: Apruaban la modificación de la conformación de la Comisión Técnica Regional de Zonificación Ecológica y Económica de … | in force 24 June 2021 |
+| `ordenanza-regional-448-2020-gob-reg-hvca-cr/` | Ordenanza Regional N° 448-2020/GOB.REG.HVCA/CR: Ordenanza Regional que aprueba la actualización y modificación del Texto Unico de Procedimientos Administrativos… | in force 9 January 2021 |
+| `ordenanza-regional-400-gob-reg-hvca-cr/` | Ordenanza Regional N° 400-GOB.REG-HVCA/CR: Aprueban creación del Comité Ejecutivo Regional Exportador - CERX en la Región Huancavelica | in force 5 July 2019 |
+| `ordenanza-regional-405-gob-reg-hvca-cr/` | Ordenanza Regional N° 405-GOB.REG-HVCA/CR: Aprueban Plan Regional de Exportaciones de Huancavelica (PERX 2018 - 2021) y la Agenda de Exportaciones | in force 23 November 2018 |
+| `ordenanza-regional-409-gob-reg-hvca-cr/` | Ordenanza Regional N° 409-GOB.REG-HVCA/CR: Aprueban Cuadros para Asignación de Personal Provisionales de la Dirección Regional de Salud de Huancavelica, hospita… | in force 21 November 2018 |
+| `ordenanza-regional-401-gob-reg-hvca-cr/` | Ordenanza Regional N° 401-GOB.REG-HVCA/CR: Ordenanza Regional que aprueba el inicio, equipo técnico y cronograma de actividades del Presupuesto Participativo Re… | in force 10 September 2018 |
+| `ordenanza-regional-390-gob-reg-hvca-cr/` | Ordenanza Regional N° 390-GOB.REG-HVCA/CR: Aprueban el Reglamento de Supervisión, Fiscalización  y Sanción   en materia Ambiental, aplicable a todas las unidade… | in force 28 April 2018 |
+| `ordenanza-regional-361-gob-reg-hvca-cr/` | Ordenanza Regional N° 361-GOB.REG-HVCA/CR: Aprueban constitución de la "Mancomunidad Regional Huancavelica - Ica" - "MANRHI" | in force 5 February 2017 |
+| `ordenanza-regional-332-gob-reg-hvca-cr/` | Ordenanza Regional N° 332-GOB.REG-HVCA/CR: Declaran de interés y prioridad regional la ejecución de la Política Pública Yaku Tarpuy de Lucha Contra la Pobreza, … | in force 11 May 2016 |
+| `ordenanza-regional-292-gob-reg-hvca-cr/` | Ordenanza Regional N° 292-GOB.REG-HVCA/CR: Ordenanza Regional que oficializa el Sistema de Información Ambiental Regional - SIAR Huancavelica | in force 22 June 2015 |
+| `ordenanza-regional-198-gob-reg-hvca-cr/` | Ordenanza Regional N° 198-GOB.REG-HVCA/CR: Declaran la voluntad del Gobierno Regional Huancavelica de constituir la "Mancomunidad Regional Apurímac, Ayacucho, H… | in force 21 July 2013 |
+| `ordenanza-regional-227-gob-reg-hvca-cr/` | Ordenanza Regional N° 227-GOB.REG-HVCA/CR: Aprueban "Plan Regional por la Primera Infancia de Huancavelica 2012 - 2017". | in force 27 April 2013 |
+| `ordenanza-regional-199-gob-reg-hvca-cr/` | Ordenanza Regional N° 199-GOB.REG-HVCA/CR: Aprueban Plan Regional Contra la Violencia Hacia la Mujer 2012 - 2016 | in force 6 October 2012 |
+| `ordenanza-regional-190-gob-reg-hvca-cr/` | Ordenanza Regional N° 190-GOB.REG-HVCA/CR: Crean y disponen la implementación de la Orquesta Sinfónica y Coro Polifónico Infantil - Juvenil de la Región Huancav… | in force 5 October 2012 |
+| `ordenanza-regional-220-gob-reg-hvca-cr/` | Ordenanza Regional N° 220-GOB.REG-HVCA/CR: Modifican la Ordenanza Regional N° 144-GOB.REG.HVCA/CR y crean el Consejo Regional de la Juventud de Huancavelica - C… | in force 22 September 2012 |
+| `ordenanza-regional-197-gob-reg-hvca-cr/` | Ordenanza Regional N° 197-GOB.REG-HVCA/CR: Aprueban creación de la Oficina Regional de la Juventud, Cultura y Deporte | in force 22 September 2012 |
+| `ordenanza-regional-200-gob-reg-hvca-cr/` | Ordenanza Regional N° 200-GOB.REG-HVCA/CR: Aprueban el Plan Regional de Igualdad de Genero 2012-2017 (PRIG)
+
+. | in force 22 September 2012 |
+| `ordenanza-regional-218-gob-reg-hvca-cr/` | Ordenanza Regional N° 218-GOB.REG-HVCA/CR: Aprueban el Plan Regional de Cooperación Internacional No Reembolsable 2012 - 2015 | in force 9 August 2012 |
+| `ordenanza-regional-205-gob-reg-hvca-cr/` | Ordenanza Regional N° 205-GOB.REG-HVCA/CR: Aprueban creación de la Dirección Regional de Camélidos Sudamericanos | in force 4 August 2012 |
+| `ordenanza-regional-192-gob-reg-hvca-cr/` | Ordenanza Regional N° 192-GOB.REG.HVCA/CR: Declaran al Saneamiento Ambiental Básico como eje estratégico de desarrollo para la región Huancavelica | in force 7 June 2012 |
+| `ordenanza-regional-193-gob-reg-hvca-cr/` | Ordenanza Regional N° 193-GOB.REG-HVCA/CR: Ordenanza que autoriza el servicio de transporte terrestre interprovincial de pasajeros en automóviles colectivos en … | in force 27 April 2012 |
+| `ordenanza-regional-179-gob-reg-hvca-cr/` | Ordenanza Regional N° 179-GOB.REG.HVCA/CR: Disponen gestionar la certificación ambiental y el cumplimiento de la Ley de Evaluación de Impacto Ambiental de los p… | in force 11 September 2011 |
+| `ordenanza-regional-167-gob-reg-hvca-cr/` | Ordenanza Regional N° 167-GOB.REG-HVCA/CR: Crean el Consejo Regional del Trabajo y Promoción del Empleo de Huancavelica | in force 3 June 2011 |
+| `ordenanza-regional-156-gob-reg-hvca-cr/` | Ordenanza Regional N° 156-GOB.REG-HVCA/CR: Aprueban Política Regional en materia de Trabajo Infantil en el ámbito de la Región Huancavelica | in force 23 October 2010 |
+| `ordenanza-regional-157-gob-reg-hvca-cr/` | Ordenanza Regional N° 157-GOB.REG-HVCA/CR: Crean el Consejo Regional de Ciencia, Tecnología e Innovación Tecnológica de Huancavelica (CORCYTEC-HVCA) | in force 23 October 2010 |
+| `ordenanza-regional-146-gob-reg-hvca-cr/` | Ordenanza Regional N° 146-GOB.REG-HVCA/CR: Crean el Grupo Técnico Regional del Agua - GTRA | in force 28 May 2010 |
+| `ordenanza-regional-153-gob-reg-hvca-cr/` | Ordenanza Regional N° 153-GOB.REG-HVCA/CR: Aprueban modificación de Cuadros para Asignación de Personal del Gobierno Regional y de Gerencias Subregionales de Ac… | in force 28 May 2010 |
+| `ordenanza-regional-152-gob-reg-hvca-cr/` | Ordenanza Regional N° 152-GOB.REG-HVCA/CR: Aprueban Texto Único de Procedimientos Administrativos del Gobierno Regional de Huancavelica | in force 19 April 2010 |
+| `ordenanza-regional-149-gob-reg-hvca-cr/` | Ordenanza Regional N° 149-GOB.REG-HVCA/CR: Aprueban la creación de la Comisión Ambiental Regional de la Región Huancavelica | in force 3 April 2010 |
+| `ordenanza-regional-148-gob-reg-hvca-cr/` | Ordenanza Regional N° 148-GOB.REG.HVCA/CR: Aprueban modificación del Reglamento de Organización y Funciones, Estructura Orgánica y Cuadro para Asignación de Per… | in force 15 March 2010 |
+| `ordenanza-regional-145-gob-reg-hvca-cr/` | Ordenanza Regional N° 145-GOB.REG-HVCA/CR: Prohiben la discriminación en todos los ámbitos y formas en la Región Huancavelica | in force 14 December 2009 |
+| `ordenanza-regional-144-gob-reg-hvca-cr/` | Ordenanza Regional N° 144-GOB.REG-HVCA/CR: Aprueban la creación del Consejo Regional de la Juventud de Huancavelica - COREJUH | in force 14 December 2009 |
+| `ordenanza-regional-143-gob-reg-hvca-cr/` | Ordenanza Regional N° 143-GOB.REG-HVCA/CR: Aprueban creación del Consejo Regional de Fomento Artesanal de Huancavelica - COREFARH | in force 7 December 2009 |
+| `ordenanza-regional-142-gob-reg-hvca-cr/` | Ordenanza Regional N° 142-GOB.REG-HVCA/CR: Aprueban creación del Consejo Regional de la Palta | in force 24 October 2009 |
+| `ordenanza-regional-141-gob-reg-hvca-cr/` | Ordenanza Regional N° 141-GOB.REG-HVCA/CR: Aprueban creación del Consejo Regional de la Papa Nativa | in force 24 October 2009 |
+| `ordenanza-regional-140-gob-reg-hvca-cr/` | Ordenanza Regional N° 140-GOB.REG-HVCA/CR: Aprueban creación del Consejo Regional de la Tara | in force 24 October 2009 |
 
 ## Source
 
