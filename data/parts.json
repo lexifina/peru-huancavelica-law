@@ -1,0 +1,142 @@
+{
+ "parts": {
+  "30-ordenanzas-01.json": {
+   "acts": [
+    "ordenanza-regional-488-gob-reg-hvca-cr",
+    "ordenanza-regional-492-gob-reg-hvca-cr",
+    "ordenanza-regional-494-gob-reg-hvca-cr",
+    "ordenanza-regional-503-gob-reg-hvca-cr",
+    "ordenanza-regional-505-gob-reg-hvca-cr",
+    "ordenanza-regional-516-gob-reg-hvca-cr",
+    "ordenanza-regional-518-gob-reg-hvca-cr",
+    "ordenanza-regional-519-gob-reg-hvca-cr",
+    "ordenanza-regional-520-gob-reg-hvca-cr",
+    "ordenanza-regional-521-gob-reg-hvca-cr",
+    "ordenanza-regional-522-gob-reg-hvca-cr",
+    "ordenanza-regional-523-gob-reg-hvca-cr",
+    "ordenanza-regional-524-gob-reg-hvca-cr",
+    "ordenanza-regional-525-gob-reg-hvca-cr",
+    "ordenanza-regional-527-gob-reg-hvca-cr",
+    "ordenanza-regional-528-gob-reg-hvca-cr",
+    "ordenanza-regional-529-gob-reg-hvca-cr",
+    "ordenanza-regional-530-gob-reg-hvca-cr",
+    "ordenanza-regional-532-gob-reg-hvca-cr",
+    "ordenanza-regional-533-gob-reg-hvca-cr",
+    "ordenanza-regional-534-gob-reg-hvca-cr",
+    "ordenanza-regional-538-gob-reg-hvca-cr",
+    "ordenanza-regional-541-gob-reg-hvca-cr",
+    "ordenanza-regional-542-gob-reg-hvca-cr",
+    "ordenanza-regional-543-gob-reg-hvca-cr",
+    "ordenanza-regional-544-gob-reg-hvca-cr",
+    "ordenanza-regional-545-gob-reg-hvca-cr",
+    "ordenanza-regional-546-gob-reg-hvca-cr",
+    "ordenanza-regional-548-gob-reg-hvca-cr",
+    "ordenanza-regional-550-gob-reg-hvca-cr",
+    "ordenanza-regional-551-gob-reg-hvca-cr",
+    "ordenanza-regional-553-gob-reg-hvca-cr",
+    "ordenanza-regional-555-gob-reg-hvca-cr",
+    "ordenanza-regional-557-gob-reg-hvca-cr",
+    "ordenanza-regional-558-gob-reg-hvca-cr",
+    "ordenanza-regional-559-gob-reg-hvca-cr",
+    "ordenanza-regional-561-gob-reg-hvca-cr",
+    "ordenanza-regional-563-gob-reg-hvca-cr",
+    "ordenanza-regional-565-gob-reg-hvca-cr",
+    "ordenanza-regional-ordenanza-regional"
+   ],
+   "sha256": "a2201f9397195aa1f4019a0728d312baf8581070aa3e4413df87d516b9304f5e"
+  },
+  "31-recuperadas-01.json": {
+   "acts": [
+    "ordenanza-regional-549-gob-reg-hvca-cr"
+   ],
+   "sha256": "83ea955805cbda7434c04e8cf65445cb4000a9bc8d8f2753a57a6ae6ffb6363c"
+  },
+  "32-anteriores-01.json": {
+   "acts": [
+    "ordenanza-regional-329-gob-reg-hvca-cr",
+    "ordenanza-regional-336-gob-reg-hvca-cr",
+    "ordenanza-regional-337-gob-reg-hvca-cr",
+    "ordenanza-regional-348-gob-reg-hvca-cr",
+    "ordenanza-regional-369-gob-reg-hvca-cr",
+    "ordenanza-regional-372-gob-reg-hvca-cr",
+    "ordenanza-regional-374-gob-reg-hvca-cr",
+    "ordenanza-regional-378-gob-reg-hvca-cr",
+    "ordenanza-regional-382-gob-reg-hvca-cr",
+    "ordenanza-regional-383-gob-reg-hvca-cr",
+    "ordenanza-regional-385-gob-reg-hvca-cr",
+    "ordenanza-regional-391-gob-reg-hvca-cr",
+    "ordenanza-regional-407-gob-reg-hvca-cr",
+    "ordenanza-regional-411-gob-reg-hvca-cr",
+    "ordenanza-regional-420-gob-reg-hvca-cr",
+    "ordenanza-regional-421-gob-reg-hvca-cr",
+    "ordenanza-regional-429-gob-reg-hvca-cr",
+    "ordenanza-regional-431-gob-reg-hvca-cr",
+    "ordenanza-regional-450-gob-reg-hvca-cr",
+    "ordenanza-regional-456-gob-reg-hvca-cr",
+    "ordenanza-regional-458-gob-reg-hvca-cr",
+    "ordenanza-regional-466-gob-reg-hvca-cr",
+    "ordenanza-regional-469-gob-reg-hvca-cr",
+    "ordenanza-regional-471-gob-reg-hvca-cr",
+    "ordenanza-regional-472-gob-reg-hvca-cr",
+    "ordenanza-regional-479-gob-reg-hvca-cr",
+    "ordenanza-regional-480-gob-reg-hvca-cr",
+    "ordenanza-regional-481-gob-reg-hvca-cr",
+    "ordenanza-regional-483-gob-reg-hvca-cr",
+    "ordenanza-regional-484-gob-reg-hvca-cr",
+    "ordenanza-regional-485-gob-reg-hvca-cr",
+    "ordenanza-regional-489-gob-reg-hvca-cr",
+    "ordenanza-regional-495-gob-reg-hvca-cr",
+    "ordenanza-regional-498-gob-reg-hvca-cr",
+    "ordenanza-regional-499-gob-reg-hvca-cr",
+    "ordenanza-regional-500-gob-reg-hvca-cr",
+    "ordenanza-regional-502-2023-gob-reg-hvca"
+   ],
+   "sha256": "81d1d43ec3113db362a355799c94293df4721d3cb204979149285f7dfc41a525"
+  },
+  "32-anteriores-02.json": {
+   "acts": [
+    "ordenanza-regional-023-gr-hvca-cr",
+    "ordenanza-regional-039-gr-hvca-cr",
+    "ordenanza-regional-097-gob-reg-hvca-cr",
+    "ordenanza-regional-098-gob-reg-hvca-cr",
+    "ordenanza-regional-296-gob-reg-hvca-cr",
+    "ordenanza-regional-300-gob-reg-hvca-cr",
+    "ordenanza-regional-303-gob-reg-hvca-cr",
+    "ordenanza-regional-306-gob-reg-hvca-cr",
+    "ordenanza-regional-307-gob-reg-hvca-cr",
+    "ordenanza-regional-308-gob-reg-hvca-cr",
+    "ordenanza-regional-309-gob-reg-hvca-cr",
+    "ordenanza-regional-312-gob-reg-hvca-cr",
+    "ordenanza-regional-318-2016-gob-reg-hvca-cr",
+    "ordenanza-regional-321-gob-reg-hvca-cr",
+    "ordenanza-regional-323-gob-reg-hvca-cr",
+    "ordenanza-regional-325-2016-gob-reg-hvca-cr",
+    "ordenanza-regional-328-gob-reg-hvca-cr"
+   ],
+   "sha256": "03e4993541ab7bbce1e402153b8100cfb2be7531b0b4a5b8ecd552eb9d828614"
+  },
+  "32-anteriores-03.json": {
+   "acts": [
+    "ordenanza-regional-113-gob-reg-hvca-cr",
+    "ordenanza-regional-132-gob-reg-hvca-cr",
+    "ordenanza-regional-137-gob-reg-hvca-cr",
+    "ordenanza-regional-139-gob-reg-hvca-cr",
+    "ordenanza-regional-147-gob-reg-hvca-cr",
+    "ordenanza-regional-150-gob-reg-hvca-cr",
+    "ordenanza-regional-154-gob-reg-hvca-cr",
+    "ordenanza-regional-159-gob-reg-hvca-cr",
+    "ordenanza-regional-206-gob-reg-hvca-cr",
+    "ordenanza-regional-244-gob-reg-hvca-cr"
+   ],
+   "sha256": "a1bc1ba47ae08b4d472b10fd769eb1120cd94fe4d6db09428fa584672db4b91a"
+  },
+  "32-anteriores-04.json": {
+   "acts": [
+    "ordenanza-regional-191-gob-reg-hvca-cr",
+    "ordenanza-regional-201-gob-reg-hvca-cr"
+   ],
+   "sha256": "c3742de587d56ba047f2a9bc8f8fd9733e49096fd8ee2c03819c8daeb91faa16"
+  }
+ },
+ "schema": 1
+}
