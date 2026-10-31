@@ -8,7 +8,7 @@ The text is in Spanish, exactly as El Peruano prints it.
 
 ## What this repository holds
 
-143 ordinances so far, newest first, added in parts of about 50. Each is shown **as published in El Peruano** (the oldest version available from this source): El Peruano publishes no consolidated texts, so an ordinance that amends another is its own entry and its changes are not applied to the earlier text.
+146 ordinances so far, newest first, added in parts of about 50. Each is shown **as published in El Peruano** (the oldest version available from this source): El Peruano publishes no consolidated texts, so an ordinance that amends another is its own entry and its changes are not applied to the earlier text.
 
 | Folder | Ordinance | Date |
 | --- | --- | --- |
@@ -160,6 +160,9 @@ The text is in Spanish, exactly as El Peruano prints it.
 | `ordenanza-regional-142-gob-reg-hvca-cr/` | Ordenanza Regional N° 142-GOB.REG-HVCA/CR: Aprueban creación del Consejo Regional de la Palta | in force 24 October 2009 |
 | `ordenanza-regional-141-gob-reg-hvca-cr/` | Ordenanza Regional N° 141-GOB.REG-HVCA/CR: Aprueban creación del Consejo Regional de la Papa Nativa | in force 24 October 2009 |
 | `ordenanza-regional-140-gob-reg-hvca-cr/` | Ordenanza Regional N° 140-GOB.REG-HVCA/CR: Aprueban creación del Consejo Regional de la Tara | in force 24 October 2009 |
+| `ordenanza-regional-138-gob-reg-hvca-cr/` | Ordenanza Regional N° 138-GOB.REG.HVCA/CR: Aprueban modificación del ROF y del CAP del Gobierno Regional y aprueban Estructura Orgánica, ROF y CAP de las Gerenc… | in force 11 September 2009 |
+| `ordenanza-regional-135-gob-reg-hvca-cr/` | Ordenanza Regional N° 135-GOB.REG-HVCA/CR: Aprueban modificación de la Estructura Orgánica, Reglamento de Organización y Funciones y Cuadro para Asignación de P… | in force 17 July 2009 |
+| `ordenanza-regional-134-gob-reg-hvca-cr/` | Ordenanza Regional N° 134-GOB.REG-HVCA/CR: Conforman Equipo Técnico responsable de brindar soporte técnico en el proceso del Presupuesto Participativo Regional | in force 27 April 2009 |
 
 ## Source
 

@@ -2002,6 +2002,48 @@
      "sha256": "a3a394286a813c0449403006dec058c087f686e731a1c11160cc0c82cba86d76"
     }
    ]
+  },
+  {
+   "slug": "ordenanza-regional-138-gob-reg-hvca-cr",
+   "short": "Ordenanza Regional N° 138-GOB.REG.HVCA/CR",
+   "title": "Ordenanza Regional N° 138-GOB.REG.HVCA/CR: Aprueban modificación del ROF y del CAP del Gobierno Regional y aprueban Estructura Orgánica, ROF y CAP de las Gerencias Subregionales",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/394968-1",
+   "versions": [
+    {
+     "from": "2009-09-11",
+     "units": 9,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/97y8IBbvqJd93zTztZYGAb/*/394968-1.pdf",
+     "sha256": "962fd0499147a21a3fa28c6c75f8b3bf3d5ec28d9f7aebbb0698a3dfda556cfb"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-135-gob-reg-hvca-cr",
+   "short": "Ordenanza Regional N° 135-GOB.REG-HVCA/CR",
+   "title": "Ordenanza Regional N° 135-GOB.REG-HVCA/CR: Aprueban modificación de la Estructura Orgánica, Reglamento de Organización y Funciones y Cuadro para Asignación de Personal del Gobierno Regional",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/372232-1",
+   "versions": [
+    {
+     "from": "2009-07-17",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/7DyOKlU0KyA9wCFRun_HE2/*/372232-1.pdf",
+     "sha256": "b9d29e388468b095f6058ba788ba4353fcf1b4abe3ff8fa3cac64d9692e08bde"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-134-gob-reg-hvca-cr",
+   "short": "Ordenanza Regional N° 134-GOB.REG-HVCA/CR",
+   "title": "Ordenanza Regional N° 134-GOB.REG-HVCA/CR: Conforman Equipo Técnico responsable de brindar soporte técnico en el proceso del Presupuesto Participativo Regional",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/340668-1",
+   "versions": [
+    {
+     "from": "2009-04-27",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/1oC8p7NTK3gBhLF3av0fVB/*/340668-1.pdf",
+     "sha256": "3e02c535234592d2b2b426aaffc871075942806253be26d6c757fd2939a1076a"
+    }
+   ]
   }
  ]
 }

@@ -177,6 +177,14 @@
     "ordenanza-regional-453-gob-reg-hvca-cr"
    ],
    "sha256": "59bb58f7cd26c4cdef4ca08e1e86be7906b8d2e9710443e758bd03621470e3a0"
+  },
+  "33-runner-02.json": {
+   "acts": [
+    "ordenanza-regional-134-gob-reg-hvca-cr",
+    "ordenanza-regional-135-gob-reg-hvca-cr",
+    "ordenanza-regional-138-gob-reg-hvca-cr"
+   ],
+   "sha256": "33dbfc3fba605ccfe9773be122d56d5d3b9980414d66a848d6ec5ede3de5e61e"
   }
  },
  "schema": 1

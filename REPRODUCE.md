@@ -164,20 +164,23 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `ordenanza-regional-142-gob-reg-hvca-cr` | Ordenanza Regional N° 142-GOB.REG-HVCA/CR: Aprueban creación del Consejo Regional de la Palta | 1 | 2009-10-24 to 2009-10-24 |
 | `ordenanza-regional-141-gob-reg-hvca-cr` | Ordenanza Regional N° 141-GOB.REG-HVCA/CR: Aprueban creación del Consejo Regional de la Papa Nativa | 1 | 2009-10-24 to 2009-10-24 |
 | `ordenanza-regional-140-gob-reg-hvca-cr` | Ordenanza Regional N° 140-GOB.REG-HVCA/CR: Aprueban creación del Consejo Regional de la Tara | 1 | 2009-10-24 to 2009-10-24 |
+| `ordenanza-regional-138-gob-reg-hvca-cr` | Ordenanza Regional N° 138-GOB.REG.HVCA/CR: Aprueban modificación del ROF y del CAP del Gobierno Regional y aprueban Estructura Orgánica, ROF y CAP de las Gerencias Subregionales | 1 | 2009-09-11 to 2009-09-11 |
+| `ordenanza-regional-135-gob-reg-hvca-cr` | Ordenanza Regional N° 135-GOB.REG-HVCA/CR: Aprueban modificación de la Estructura Orgánica, Reglamento de Organización y Funciones y Cuadro para Asignación de Personal del Gobierno Regional | 1 | 2009-07-17 to 2009-07-17 |
+| `ordenanza-regional-134-gob-reg-hvca-cr` | Ordenanza Regional N° 134-GOB.REG-HVCA/CR: Conforman Equipo Técnico responsable de brindar soporte técnico en el proceso del Presupuesto Participativo Regional | 1 | 2009-04-27 to 2009-04-27 |
 
-The build made 143 commits:
+The build made 146 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 143 | first version of an act |
+| 146 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `futuro`: laws not yet in force on 2026-10-31.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 143 laws in the record.
-- 286 tags.
+- 146 laws in the record.
+- 292 tags.
 
 ## Dates
 
@@ -189,7 +192,7 @@ When a law gives no date of its own, the default rule applies: Constitución Pol
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `acd7d32fd6a06bae22f2a87569c74c00ec52f3834f8bd0ac038943e43f718880` (1524184 bytes).
+- Corpus: sha256 `1b267de2b71ecf763138feb7a2d440604300d0617abaff0d8cfb31865334aee5` (1553380 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
