@@ -1,0 +1,11 @@
+{
+  "path": "pe-huv",
+  "code": "PE-HUV",
+  "name": "Huancavelica",
+  "level": "region",
+  "parent": "pe",
+  "repo": "https://github.com/lexifina/peru-huancavelica-law",
+  "build": "built: 107 ordinances as published in El Peruano",
+  "language": "es",
+  "sources": 1
+}
